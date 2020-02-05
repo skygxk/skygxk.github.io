@@ -100,5 +100,5 @@ theme: landscape
 deploy:
   type: git
   repo:
-    # coding: git@e.coding.net:skygxk/skygxk.git,master
-    github: git@github.com:skygxk/skygxk.github.io.git,master
+    gitee: https://gitee.com/skygxk/skygxk.git,master
+    github: https://github.com/skygxk/skygxk.github.io.git,master
